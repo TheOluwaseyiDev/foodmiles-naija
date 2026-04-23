@@ -195,7 +195,7 @@ footer {
     margin-top: 5px;
 }
 /* Tablet (medium screen) */
-@media (max-width; 900px) {
+@media (max-width: 900px) {
     .food-container {
         grid-template-columns: repeat(2, 1fr);
     } 
